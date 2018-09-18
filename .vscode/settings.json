@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/home/luuphuoc/anaconda3/envs/cv/bin/python",
+    "python.pythonPath": "/home/phuocluu/anaconda3/envs/opencv/bin/python",
     "python.linting.pylintEnabled": false
 }
